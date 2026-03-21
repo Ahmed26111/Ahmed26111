@@ -1,35 +1,63 @@
-<h1>Hi 👋, I'm Ahmed Refaay</h1>
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Ahmed Refaay</h1>
 
-<p>A passionate Flutter developer from Egypt, constantly learning and improving every day</p>
-
-<h2>🚀 Languages and Tools I Use</h2>
-
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-<h2>⚡️ Where to find me</h2>
-
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/Ahmed Refaay" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
+<p align="center">
+  A passionate Flutter developer from Egypt , building scalable and beautiful mobile apps
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed26111&show_icons=true&locale=en&layout=compact" alt="Ahmed26111" />
+---
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed26111&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed26111&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+<!-- Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmed26111&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Tools -->
+<h2 align="center">🚀 Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,cs,git,firebase,androidstudio,vscode" />
+</p>
+
+---
+
+<!-- Connect -->
+<h2 align="center">⚡ Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Ahmed Refaay">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Refaay-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
