@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ahmed Refaay">
+  <a href="https://www.linkedin.com/in/ahmed-refaay-36a673352">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Refaay-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
