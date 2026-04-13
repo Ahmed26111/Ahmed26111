@@ -22,25 +22,20 @@
 
 ---
 
-<!-- Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed26111&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed26111&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed26111&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed26111&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
----
-
-<!-- Streak -->
-<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed26111&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ahmed26111&theme=tokyonight" />
 </p>
+
 
 ---
 
